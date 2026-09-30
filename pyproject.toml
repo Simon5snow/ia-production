@@ -12,5 +12,6 @@ dependencies = [
     "psycopg2-binary>=2.9.13",
     "python-dotenv>=1.2.3",
     "sqlmodel>=0.0.46",
+    "uvicorn>=0.54.0",
 ]
 
